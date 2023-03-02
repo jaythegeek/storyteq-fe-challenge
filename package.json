@@ -1,6 +1,9 @@
 {
   "name": "storyteq",
-  "version": "0.0.0",
+  "author": {
+    "name": "jaythegeek"
+  },
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
